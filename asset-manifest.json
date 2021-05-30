@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/christiane-villaroel/profile-card/static/css/main.53801aa6.chunk.css",
-    "main.js": "/christiane-villaroel/profile-card/static/js/main.02ccff7e.chunk.js",
-    "main.js.map": "/christiane-villaroel/profile-card/static/js/main.02ccff7e.chunk.js.map",
-    "runtime-main.js": "/christiane-villaroel/profile-card/static/js/runtime-main.27c07605.js",
-    "runtime-main.js.map": "/christiane-villaroel/profile-card/static/js/runtime-main.27c07605.js.map",
-    "static/js/2.0d6a7107.chunk.js": "/christiane-villaroel/profile-card/static/js/2.0d6a7107.chunk.js",
-    "static/js/2.0d6a7107.chunk.js.map": "/christiane-villaroel/profile-card/static/js/2.0d6a7107.chunk.js.map",
-    "static/js/3.b650880f.chunk.js": "/christiane-villaroel/profile-card/static/js/3.b650880f.chunk.js",
-    "static/js/3.b650880f.chunk.js.map": "/christiane-villaroel/profile-card/static/js/3.b650880f.chunk.js.map",
-    "index.html": "/christiane-villaroel/profile-card/index.html",
-    "static/css/main.53801aa6.chunk.css.map": "/christiane-villaroel/profile-card/static/css/main.53801aa6.chunk.css.map",
-    "static/js/2.0d6a7107.chunk.js.LICENSE.txt": "/christiane-villaroel/profile-card/static/js/2.0d6a7107.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/christiane-villaroel/profile-card/static/media/Large-Triangles.6d9035c3.svg",
-    "static/media/Linkedin_svg_5279114.a6993c12.svg": "/christiane-villaroel/profile-card/static/media/Linkedin_svg_5279114.a6993c12.svg",
-    "static/media/github_317712.e21209f2.svg": "/christiane-villaroel/profile-card/static/media/github_317712.e21209f2.svg",
-    "static/media/iconfinder_like_1814076.fdfc70ef.svg": "/christiane-villaroel/profile-card/static/media/iconfinder_like_1814076.fdfc70ef.svg",
-    "static/media/profile.c6f64c7a.jpg": "/christiane-villaroel/profile-card/static/media/profile.c6f64c7a.jpg"
+    "main.css": "/profile-card-/static/css/main.dbe84b10.chunk.css",
+    "main.js": "/profile-card-/static/js/main.02ccff7e.chunk.js",
+    "main.js.map": "/profile-card-/static/js/main.02ccff7e.chunk.js.map",
+    "runtime-main.js": "/profile-card-/static/js/runtime-main.d6dcf1ab.js",
+    "runtime-main.js.map": "/profile-card-/static/js/runtime-main.d6dcf1ab.js.map",
+    "static/js/2.0d6a7107.chunk.js": "/profile-card-/static/js/2.0d6a7107.chunk.js",
+    "static/js/2.0d6a7107.chunk.js.map": "/profile-card-/static/js/2.0d6a7107.chunk.js.map",
+    "static/js/3.b650880f.chunk.js": "/profile-card-/static/js/3.b650880f.chunk.js",
+    "static/js/3.b650880f.chunk.js.map": "/profile-card-/static/js/3.b650880f.chunk.js.map",
+    "index.html": "/profile-card-/index.html",
+    "static/css/main.dbe84b10.chunk.css.map": "/profile-card-/static/css/main.dbe84b10.chunk.css.map",
+    "static/js/2.0d6a7107.chunk.js.LICENSE.txt": "/profile-card-/static/js/2.0d6a7107.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/profile-card-/static/media/Large-Triangles.6d9035c3.svg",
+    "static/media/Linkedin_svg_5279114.a6993c12.svg": "/profile-card-/static/media/Linkedin_svg_5279114.a6993c12.svg",
+    "static/media/github_317712.e21209f2.svg": "/profile-card-/static/media/github_317712.e21209f2.svg",
+    "static/media/iconfinder_like_1814076.fdfc70ef.svg": "/profile-card-/static/media/iconfinder_like_1814076.fdfc70ef.svg",
+    "static/media/profile.c6f64c7a.jpg": "/profile-card-/static/media/profile.c6f64c7a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27c07605.js",
+    "static/js/runtime-main.d6dcf1ab.js",
     "static/js/2.0d6a7107.chunk.js",
-    "static/css/main.53801aa6.chunk.css",
+    "static/css/main.dbe84b10.chunk.css",
     "static/js/main.02ccff7e.chunk.js"
   ]
 }
